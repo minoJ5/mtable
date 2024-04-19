@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "target":"es2020",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outDir": "./build",
+    "rootDir": "./src",
+    "sourceMap": true,
+  },
+  "include": ["**/*"],
+  "exclude": ["**/*.spec.ts"]
+}

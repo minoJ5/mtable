@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+}
+.header-container{
+  margin-top: 2em;
+  margin-bottom: 2rem;
+  background: rgb(2, 62, 138);
+  background: linear-gradient(90deg, rgba(2, 62, 138, 1) 0%, rgba(0, 119, 182, 1) 79%, rgba(0, 180, 216, 1) 100%);
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+.title{
+  color: rgb(238, 247, 255);
+  font-size: 4em;
+  text-align: center;
+
+}
+.description{
+  margin-top: 1em;
+  color: #CAF0F8;
+  font-size: 1.5em;
+  text-align: center;
+
+}
+.m-table-host {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
