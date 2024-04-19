@@ -1,5 +1,6 @@
 <h1>mTable</h1>
-mTable is a datagrid for the browser written in Typescript 
+mTable is a datagrid for the browser written in Typescript.
+<img src="./demo/mtable.png" alt="mTable demo image">
 
 <h2>Description</h2>
 This is a recreational project I work on when I have the time. It is still not finished and there are still things (like virtualization) than need to be added. 
